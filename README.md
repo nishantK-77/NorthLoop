@@ -1,7 +1,8 @@
 # NorthLoop
 
-sudo npm i
-npm run dev
+sudo npm i;
+
+npm run dev;
 
 
 curl --location --request GET 'localhost:8080/trendingTickers/get'
