@@ -12,7 +12,6 @@ Optionally pass these in request headers, if not it will pick default host and k
 
 "x-rapidapi-host": "apidojo-yahoo-finance-v1.p.rapidapi.com",
 "x-rapidapi-key": "8f5dfe63cemsh98c07cd1dfde1c1p147598jsnea555c4d3d71",
-"useQueryString": true,
 
 
 
